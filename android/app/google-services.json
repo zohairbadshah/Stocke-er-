@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "17806099176",
+    "project_id": "stocker-7e68c",
+    "storage_bucket": "stocker-7e68c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17806099176:android:1d4f73eabb8d64d6377f5d",
+        "android_client_info": {
+          "package_name": "com.example.stocker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17806099176-rk9u6m673vlpssk8gmsklo5hmvbb7fbf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.stocker",
+            "certificate_hash": "51455e1e8338b3a529d4a6b69dbe2848c553a1c1"
+          }
+        },
+        {
+          "client_id": "17806099176-ja6pr3lqh8563eupmfisg0a57glefv8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAySZmasR9h-7IsPWW7GgIBYSAaKWcnBP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17806099176-ja6pr3lqh8563eupmfisg0a57glefv8s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

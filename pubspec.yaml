@@ -1,0 +1,56 @@
+name: stocker
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.2 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  fl_chart: ^0.55.2
+
+
+  cupertino_icons: ^1.0.2
+  firebase_auth: ^4.1.3
+  google_sign_in: ^5.4.2
+  countup: ^0.1.4
+  animated_text_kit: ^4.2.2
+  page_transition: ^2.0.9
+  salomon_bottom_bar: ^3.3.1
+  crea_radio_button: ^0.6.0
+  candlesticks: ^2.1.0
+  http: ^0.13.5
+
+  syncfusion_flutter_charts: ^20.3.58
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - images/
+
+  fonts:
+    - family: MyFlutterApp
+      fonts:
+        - asset: images/MyFlutterApp.ttf
+    - family: Merriweather
+      fonts:
+        - asset: images/Merriweather-Black.ttf
+
+    - family: Sono
+      fonts:
+        - asset: images/Sono-light.ttf
+
+    - family: Rubik
+      fonts:
+        - asset: images/Rubik-Bold.ttf
