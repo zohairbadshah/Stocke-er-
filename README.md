@@ -1,26 +1,33 @@
-# Stocke-er- 
+# Stock Trading Application <br/>
+ ## Final Project - Machine Learning <br/>
 
-<h3>A stock trading app that predicts profit or loss based on amount invested and time range.</h3>
+### Project Description
+Stock Trader Application lets you trade, invest, track and review stocks using a single account. 
+Live streaming quotes of stocks and currencies allow you to keep up to date with the fast 
+pace of trading world. It lets you trade across exchanges. Get personalized recommendation 
+based on your spending habits and portfolio. Track stocks using customized watch-list 
 
-# It has an amazing design and User Experience #
+### Technologies Used
+#### Flutter
+1. cupertino_icons
+2. firebase_auth
+3. google_sign_in
+4. http
+5. syncfusion_flutter_charts
+
+#### Machine Learning
+1. LSTM
+
+#### API
+1. World Trading Data: https://www.worldtradingdata.com/
+2. Investors Exchange (IEX): https://iextrading.com/
+
 
 ![img2](https://user-images.githubusercontent.com/91787690/213875872-3b054c4c-e6c3-4934-b9a4-b6b1498f3f72.jpg)
 
-
-
-
-
-
-# Dedicated Watchlist to analyse and invest in favorite stocks #
 
 ![img3](https://user-images.githubusercontent.com/91787690/213875892-afee1392-c12a-48ce-9523-ba8aa06f23c5.jpg)
 
 
 
-# Tech Stack #
-<h3> Flutter,TFLite,Dart </h3> 
-
-# Future Commits #
-<h3> 1. adding a trading bot to do real time trading.</h3>
-<h3> 2. real time data tickers needed for accurate predictions </h3>
 
